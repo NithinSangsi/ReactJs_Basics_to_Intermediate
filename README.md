@@ -123,4 +123,4 @@ Feel free to fork, clone, and experiment! Pull requests are welcome if you're ex
 
 **📄 License**
 
-This is an open learning project. You may reuse or modify it freely.
+This is an open learning repo. You may reuse or modify it freely.
