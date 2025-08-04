@@ -6,4 +6,4 @@ including props, states, events, hooks, styling, component reuse, and Vite for f
 # 🗂️ Project Structure
 
 Your project follows a modular structure under the **src** directory : 
-![image alt]{https://github.com/NithinSangsi/ReactJs_Basics_to_Intermediate/blob/00b11a8d608e48a064d6eaf027e23e6393ddbde7/ReactJs%20Folder%20Structure.png}
+![image alt] {https://github.com/NithinSangsi/ReactJs_Basics_to_Intermediate/blob/00b11a8d608e48a064d6eaf027e23e6393ddbde7/ReactJs%20Folder%20Structure.png?raw=true}
